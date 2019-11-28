@@ -3,7 +3,7 @@
 
 ## 2019
 
-- [WebRTC初探](http://solome.js.org/slides/webrtc-esploru.html)
+- [WebRTC初探](http://solome.js.org/slides/webrtc-esploru)
 
 ## 2018
 
