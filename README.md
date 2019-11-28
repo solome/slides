@@ -3,7 +3,7 @@
 
 ## 2019
 
-- [前端工程师都在干些是啥？](http://solome.js.org/slides/hello-front-end)
+- [前端工程师都在干些是啥？](http://solome.js.org/slides/hello-front-end/)
 
 > 给贝壳ADC(应届)前端"童鞋"培训储备的内容，抽出了"前端工程师都在干些是啥"章节。
 
