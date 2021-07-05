@@ -1,6 +1,15 @@
 
 # 分享Slides
 
+## 2021
+
+- [GMTC-VR及3D技术在Web端架构设计与实践](https://gmtc.infoq.cn/2021/beijing/presentation/3531)。
+- [如视说-如视VR性能优化的那些事儿](https://raw.githubusercontent.com/solome/slides/master/pdfs/realseesay-vr-perf.pdf)：貝殼如視說分享（15min）。
+
+## 2020
+
+> 由于新冠肺炎疫情的影响，2020年整年都很忙（前期又适逢居家办公），沒有有價值的技术类分享。
+
 ## 2019
 
 - [前端工程师都在干些是啥？](http://solome.js.org/slides/hello-front-end/)
